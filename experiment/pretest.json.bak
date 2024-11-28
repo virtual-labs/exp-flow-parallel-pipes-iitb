@@ -1,0 +1,20 @@
+[
+    {
+        "question": "The two pipes are in series, which statement is correct?",
+        "qid": 1,
+        "option_a": "$$ h_f = h_f_1 + h_f_2 $$",
+        "option_b": "$$ h_f = h_f_1 = h_f_2 $$",
+        "option_c": "$$ h_f = h_f_1 - h_f_2 $$",
+        "option_d": "$$ h_f = h_f_2 + f_1 $$",
+        "correct_option": "a"
+    },
+    {
+        "question": "The two pipes are in series, which statement is correct?",
+        "qid": 2,
+        "option_a": "$$ h_f = h_f_1 + h_f_2 $$",
+        "option_b": "$$ h_f = h_f_1 = h_f_2 $$",
+        "option_c": "$$ h_f = h_f_1 - h_f_2 $$",
+        "option_d": "$$ h_f = h_f_2 + f_1 $$",
+        "correct_option": "b"
+    }
+]
