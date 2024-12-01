@@ -1,0 +1,20 @@
+[
+   {
+      "question": "A pipe of diameter d1 = 22cm and length L = 1912m connecting two reservoirs having difference of water level as 24m. If an additional pipe of diameter d2 = 22cm and length L2 = 1217m is attached to the last 1217m length of the existing pipe. Find the increase in the discharge through the pipe. Take f = 0.15. Refer diagram from simulation.",
+      "qid": 1,
+      "option_a": "3 l/s",
+      "option_b": "5 l/s",
+      "option_c": "7 l/s",
+      "option_d": "9 l/s",
+      "correct_option": "b"
+   },
+   {
+      "question": "A pipe of diameter d1 = 20cm and length L = 1931m connecting two reservoirs having difference of water level as 22m. Determine the discharge through the pipe. If an additional pipe of diameter d2 = 20cm and length L2 = 1213m is attached to the last 1213m length of the existing pipe. Find the increase in the discharge through the pipe. Take f = 0.15. Refer diagram from simulation.",
+      "qid": 2,
+      "option_a": "4 l/s",
+      "option_b": "7 l/s",
+      "option_c": "9 l/s",
+      "option_d": "8 l/s",
+      "correct_option": "a"
+   }
+]

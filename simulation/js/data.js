@@ -1,0 +1,23 @@
+let g = 9.81;
+let d1 = 20;
+let L = 2000;
+let H = 20;
+let d2 = d1;
+let L2 = 1200;
+let f = 0.15;
+let v;
+let A;
+let Q_ms;
+let Q_ls;
+let d3 = d1;
+let L3 = L2;
+let L1 = L - L2;
+let A1;
+let A2;
+let Q1;
+let increase_Q_ms;
+let increase_Q_ls;
+let r;
+let v2;
+let v1;
+//# sourceMappingURL=data.js.map
